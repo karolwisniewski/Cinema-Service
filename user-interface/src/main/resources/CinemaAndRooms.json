@@ -1,0 +1,132 @@
+[
+  {
+    "cinema": {
+      "name": "Arkadia",
+      "city": "Warszawa"
+    },
+    "rooms": [
+      {
+        "name": "Green",
+        "rowsNumber": 2,
+        "columnsNumber": 3
+      },
+      {
+        "name": "Blue",
+        "rowsNumber": 2,
+        "columnsNumber": 10
+      },
+      {
+        "name": "Black",
+        "rowsNumber": 5,
+        "columnsNumber": 30
+      },
+      {
+        "name": "Red",
+        "rowsNumber": 8,
+        "columnsNumber": 12
+      }
+    ]
+  },
+  {
+    "cinema": {
+      "name": "Galeria Mokotow",
+      "city": "Warszawa"
+    },
+    "rooms": [
+      {
+        "name": "Strawberry",
+        "rowsNumber": 15,
+        "columnsNumber": 15
+      },
+      {
+        "name": "Blueberry",
+        "rowsNumber": 9,
+        "columnsNumber": 9
+      },
+      {
+        "name": "Raspberry",
+        "rowsNumber": 7,
+        "columnsNumber": 11
+      },
+      {
+        "name": "Blackberry",
+        "rowsNumber": 6,
+        "columnsNumber": 3
+      }
+    ]
+  },
+  {
+    "cinema": {
+      "name": "Silesia City Center",
+      "city": "Katowice"
+    },
+    "rooms": [
+      {
+        "name": "I",
+        "rowsNumber": 9,
+        "columnsNumber": 6
+      },
+      {
+        "name": "II",
+        "rowsNumber": 11,
+        "columnsNumber": 12
+      },
+      {
+        "name": "III",
+        "rowsNumber": 5,
+        "columnsNumber": 9
+      },
+      {
+        "name": "IV",
+        "rowsNumber": 4,
+        "columnsNumber": 13
+      }
+    ]
+  },
+  {
+    "cinema": {
+      "name": "Reduta",
+      "city": "Warszawa"
+    },
+    "rooms": [
+      {
+        "name": "A",
+        "rowsNumber": 9,
+        "columnsNumber": 8
+      },
+      {
+        "name": "B",
+        "rowsNumber": 6,
+        "columnsNumber": 9
+      }
+    ]
+  },
+  {
+    "cinema": {
+      "name": "Galeria Baltycka",
+      "city": "Gdańsk"
+    },
+    "rooms": [
+      {
+        "name": "1001",
+        "rowsNumber": 5,
+        "columnsNumber": 15
+      },
+      {
+        "name": "1002",
+        "rowsNumber": 11,
+        "columnsNumber": 8
+      },
+      {
+        "name": "2001",
+        "rowsNumber": 10,
+        "columnsNumber": 4
+      },
+      {
+        "name": "2002",
+        "rowsNumber": 22,
+        "columnsNumber": 11
+      }
+    ]
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "movieDto": {
+      "title": "Avengers",
+      "category": "SCIENCE_FICTION",
+      "displaySince": "2020-06-11",
+      "displayTo": "2020-08-11"
+    },
+    "roomId": 1,
+    "screeningDate": "2020-06-11 18:00"
+  },
+  {
+    "movieDto": {
+      "title": "DJANGO",
+      "category": "WESTERN",
+      "displaySince": "2020-07-20",
+      "displayTo": "2020-09-01"
+    },
+    "roomId": 2,
+    "screeningDate": "2020-07-20 22:00"
+  },{
+  "movieDto": {
+    "title": "Green Book",
+    "category": "COMEDY",
+    "displaySince": "2020-07-01",
+    "displayTo": "2020-10-29"
+  },
+  "roomId": 3,
+  "screeningDate": "2020-07-01 17:30"
+},{
+  "movieDto": {
+    "title": "Igrzyska Smierci ",
+    "category": "ACTION",
+    "displaySince": "2020-06-20",
+    "displayTo": "2020-07-28"
+  },
+  "roomId": 4,
+  "screeningDate": "2020-06-20 18:30"
+},{
+  "movieDto": {
+    "title": "Szklana pulapka",
+    "category": "CRIME",
+    "displaySince": "2020-08-01",
+    "displayTo": "2020-08-11"
+  },
+  "roomId": 5,
+  "screeningDate": "2020-08-01 21:00"
+},{
+  "movieDto": {
+    "title": "Wikingowie",
+    "category": "HISTORY",
+    "displaySince": "2020-08-15",
+    "displayTo": "2020-11-10"
+  },
+  "roomId": 6,
+  "screeningDate": "2020-08-15 15:30"
+},{
+  "movieDto": {
+    "title": "American Pie",
+    "category": "COMEDY",
+    "displaySince": "2020-07-19",
+    "displayTo": "2020-12-12"
+  },
+  "roomId": 7,
+  "screeningDate": "2020-07-19 14:00"
+},{
+  "movieDto": {
+    "title": "Zaginiona Dziewczyna",
+    "category": "CRIME",
+    "displaySince": "2020-09-13",
+    "displayTo": "2020-12-11"
+  },
+  "roomId": 8,
+  "screeningDate": "2020-09-13 21:30"
+},{
+  "movieDto": {
+    "title": "Dunkierka",
+    "category": "DRAMA",
+    "displaySince": "2020-07-20",
+    "displayTo": "2020-11-09"
+  },
+  "roomId": 9,
+  "screeningDate": "2020-07-20 19:30"
+},{
+  "movieDto": {
+    "title": "Piraci z Karaibow",
+    "category": "ADVENTURE",
+    "displaySince": "2020-08-29",
+    "displayTo": "2020-11-29"
+  },
+  "roomId": 10,
+  "screeningDate": "2020-08-29 20:30"
+}
+]
