@@ -7,8 +7,8 @@ import javax.mail.internet.MimeMessage;
 import java.util.Properties;
 
 public class EmailService {
-    private static final String EMAIL_ADDRESS = "karolpawel12345@gmail.com";
-    private static final String EMAIL_PASSWORD = "karolkarol";
+    private static final String EMAIL_ADDRESS = "@gmail.com";
+    private static final String EMAIL_PASSWORD = "";
 
     // https://j2html.com/
     public void sendAsHtml(String to, String title, String html) {
